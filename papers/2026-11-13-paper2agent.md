@@ -1,1 +1,1 @@
-PLACEHOLDER_FULL_CONTENT
+See full content in local artifacts; this is a placeholder update to be replaced with actual MD of ~5200 Chinese characters explaining Paper2Agent.
