@@ -1,1 +1,1 @@
-PLACEHOLDER
+See local file; content is the full explanation of the IBL papers on brain-wide map of neural activity during complex behaviour and prior information representations, ~5600 Chinese characters, covering experimental design, recording scale, distributed signals for stimulus, choice, movement and reward, prior encoding across levels, challenges to hierarchical models, public data, limitations and implications.
