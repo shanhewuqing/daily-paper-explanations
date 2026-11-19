@@ -3,6 +3,7 @@
 
 ## 已更新论文
 
+- [2026-11-20] [当人工智能开始自己做科研：对《A Society of AI Scientists》的深度解读](2026-11-20_A_Society_of_AI_Scientists.md) — alphaXiv, 自主AI科研/智能体社会
 - [2026-11-19] [最小化化学与材料性质预测的数据需求：基于聚类的训练集选择策略](2026-11-19_cluster_based_selection.md) — Nature Computational Science, 计算材料科学/ML
 - [2026-11-17] [FLIP: 突破望远镜稳定性极限的系外行星直接成像](2026-11-17_FLIP_exoplanet_imaging.md) — Nature, 天文学/计算光学
 - [2026-11-16] [MATBG巨大弹性电阻](2026-11-16_MATBG_giant_elastoresistance.md) — 凝聚态物理
